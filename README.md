@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Project Recommender
 
-A simple program that recommends movies basead on previous seen movies.
+A simple program that recommends movies based on previous seen movies.
 
 <!-- LICENSE -->
 ## License
